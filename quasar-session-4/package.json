@@ -1,0 +1,25 @@
+{
+  "name": "quasar-session-4",
+  "version": "0.0.1",
+  "productName": "Занятие 4 — Упражнения Quasar",
+  "description": "Упражнения занятия 4 по Quasar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@quasar/extras": "^2.1.0",
+    "quasar": "^2.35.5",
+    "vue": "^3.5.42",
+    "vue-router": "^5.5.1"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^3.10.4"
+  },
+  "engines": {
+    "node": ">= 22"
+  }
+}
+
